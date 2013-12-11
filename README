@@ -1,0 +1,8 @@
+Oh-Tannenbaum!
+
+A ATtiny(24|44|84) powered christmas light that blinks an animation. I/O pins controls BC547 (NPN) transistors since the LED strips I use require 12V. The +12V voltage is regulated using a 7812 and further taken down to +5V via a 7805 for the MCU.
+
+Super simple and super silly!
+
+Merry christmas. Ho ho ho ho
+
